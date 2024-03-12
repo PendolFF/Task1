@@ -6,7 +6,7 @@ int sum = 1;
 
 while (sum <= number)
 {
-     Console.WriteLine(sum);
+    Console.Write($" {sum}");
     sum = sum + 1;
-    
+
 }
